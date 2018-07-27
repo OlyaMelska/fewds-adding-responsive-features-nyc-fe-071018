@@ -86,7 +86,7 @@
   }
   #social {
   position: absolute;
-  top: 20px;
+  top: 0;
   left: 70px;
   width: 40px;
   /*z-index: 2;*/
