@@ -96,7 +96,7 @@
     display: flex;
   }
   .twit, .fbook, .gplus{
-    display: block;
+    display: flex;
   }
 
 }
