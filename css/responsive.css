@@ -89,11 +89,11 @@
   top: 0;
   left: 70px;
   width: 40px;
-  /*z-index: 2;*/
+  z-index: 2;
 }
 
 #social a {
-  float: left;
+  position: block;
   width: 40px;
   height: 40px;
   text-indent: 100%;
