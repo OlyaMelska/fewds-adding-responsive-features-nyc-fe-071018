@@ -93,7 +93,7 @@
   }
 
   #social a {
-    display: block;
+    display: flex;
   }
   .twit, .fbook, .gplus{
     display: block;
