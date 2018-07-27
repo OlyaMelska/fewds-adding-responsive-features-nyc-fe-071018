@@ -100,5 +100,8 @@
     white-space: nowrap;
     overflow: hidden;
   }
+  .twit, .fbook, .gplus{
+    display: inline-block;
+  }
 
 }
