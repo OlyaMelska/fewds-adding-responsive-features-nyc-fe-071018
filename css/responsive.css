@@ -85,8 +85,7 @@
     visibility: hidden;
   }
   #social {
-  position: absolute;
-  top: 0;
+  float: left;
   right: 20px;
   width: 40px;
   /*z-index: 2;*/
