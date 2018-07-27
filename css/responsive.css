@@ -101,7 +101,7 @@
     overflow: hidden;
   }
   .twit, .fbook, .gplus{
-    display: inline-block;
+    float: left;
   }
 
 }
