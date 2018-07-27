@@ -92,11 +92,4 @@
     z-index: 2;
   }
 
-  #social a {
-    display: flex;
-  }
-  .twit, .fbook, .gplus{
-    display: flex;
-  }
-
 }
