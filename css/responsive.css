@@ -94,7 +94,7 @@
 
   #social a {
     display: inline-block;
-    
+    float: left;
   }
   .twit, .fbook, .gplus{
     display: block;
